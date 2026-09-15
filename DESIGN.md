@@ -183,7 +183,7 @@ Borders are thin (1px) and tonal. External-link arrows are small diagonal line m
 
 ### Buttons
 
-Confident, compact mint actions. The primary App Store link uses the frontmatter's primary-button tokens, a minimum height (56px), and a diagonal arrow separated from text by (26px), reduced to (20px) on mobile. Hover uses the lighter mint variant. Keyboard focus uses an outline (3px) with offset (6px). The implementation has one filled button variant.
+Confident, compact mint actions. The App Store and Google Play links share the frontmatter's primary-button tokens, a minimum height (56px), and a diagonal arrow separated from text by (26px), reduced to (20px) on mobile. They sit in a centered row with a (12px) gap, then stack within a (285px) maximum width on mobile. Hover uses the lighter mint variant. Keyboard focus uses an outline (3px) with offset (6px). The implementation has one filled button variant.
 
 ### Text Links
 
@@ -195,7 +195,7 @@ Gameplay features are image wells followed by open text, not boxed cards. Deskto
 
 ### Navigation
 
-The header combines the existing icon and medium-weight wordmark with unadorned text navigation. The brand and nav share the base font. Desktop navigation uses (16px) text with the navigation spacing token and (10px) vertical link padding; the download link is mint. On mobile it uses (15px) text and (20px) gaps; only Support remains in the header navigation. The primary download action remains in the hero.
+The header combines the existing icon and medium-weight wordmark with unadorned text navigation. The brand and nav share the base font. Desktop navigation uses (16px) text with the navigation spacing token and (10px) vertical link padding; the mint download link jumps to the two store actions. On mobile it uses (15px) text and (20px) gaps; only Support remains in the header navigation. Both primary download actions remain in the hero.
 
 ### Disclosure Rows
 

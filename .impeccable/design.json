@@ -182,7 +182,7 @@
       },
       "button": {
         "displayName": "Button",
-        "purpose": "Primary App Store action."
+        "purpose": "Primary store download action."
       },
       "label": {
         "displayName": "Label",
@@ -231,8 +231,8 @@
       "name": "Primary Button",
       "kind": "button",
       "refersTo": "button-primary",
-      "description": "The filled App Store link; mint on deep teal.",
-      "html": "<a class=\"ds-button\" href=\"https://apps.apple.com/app/id6808952625\">Download on the App Store <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a>",
+      "description": "A filled store download link; mint on deep teal. App Store and Google Play actions share this treatment.",
+      "html": "<div style=\"display:flex;gap:12px;flex-wrap:wrap\"><a class=\"ds-button\" href=\"https://apps.apple.com/app/id6808952625\">Download on the App Store <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a><a class=\"ds-button\" href=\"https://play.google.com/store/apps/details?id=com.computetycoon.game\">Get it on Google Play <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a></div>",
       "css": ".ds-button{display:inline-flex;justify-content:center;align-items:center;gap:26px;min-height:56px;padding:14px 25px;background:var(--mint,#94e6c1);color:var(--ink,#122b35);border-radius:12px;text-decoration:none;font:550 17px/1.6 Outfit,system-ui,sans-serif;transition:background .2s ease}.ds-button:hover{background:#b6f3d9;color:var(--ink,#122b35)}.ds-button:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}"
     },
     {
@@ -248,7 +248,7 @@
       "kind": "nav",
       "refersTo": "navigation",
       "description": "Open text links; mobile retains Support.",
-      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#game\">The game</a><a href=\"#support\">Support</a><a class=\"ds-nav-download\" href=\"https://apps.apple.com/app/id6808952625\">Get the game <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a></nav>",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#game\">The game</a><a href=\"#support\">Support</a><a class=\"ds-nav-download\" href=\"#download\">Get the game <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a></nav>",
       "css": ".ds-nav{display:flex;align-items:center;gap:32px;font:400 16px/1.6 Outfit,system-ui,sans-serif;color:var(--text,#f0f5e9)}.ds-nav a{text-decoration:none;color:inherit;padding-block:10px}.ds-nav .ds-nav-download,.ds-nav a:hover{color:var(--mint,#94e6c1)}.ds-nav a:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}@media(max-width:700px){.ds-nav{gap:20px;font-size:15px}.ds-nav a:first-child,.ds-nav .ds-nav-download{display:none}}"
     },
     {

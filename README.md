@@ -1,6 +1,6 @@
 # Compute Tycoon developer website
 
-Public website for Compute Tycoon: Idle AI Game by Kevin Mok. Static HTML/CSS with local game artwork and fonts. No JavaScript, analytics, cookies, or build dependencies.
+Public website for Compute Tycoon: Idle AI Game by Kevin Mok, with App Store and Google Play downloads. Static HTML/CSS with local game artwork and fonts. No JavaScript, analytics, cookies, or build dependencies.
 
 ## Preview
 
