@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-15T16:50:45.855Z",
+  "title": "Design System: Compute Tycoon",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Deep Teal Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0360 226.48)",
+          "oklch(26% 0.0360 226.48)",
+          "oklch(38% 0.0360 226.48)",
+          "oklch(49% 0.0360 226.48)",
+          "oklch(61% 0.0360 226.48)",
+          "oklch(72% 0.0360 226.48)",
+          "oklch(84% 0.0360 226.48)",
+          "oklch(95% 0.0360 226.48)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Soft Ivory",
+        "tonalRamp": [
+          "oklch(15% 0.0167 125.29)",
+          "oklch(26% 0.0167 125.29)",
+          "oklch(38% 0.0167 125.29)",
+          "oklch(49% 0.0167 125.29)",
+          "oklch(61% 0.0167 125.29)",
+          "oklch(72% 0.0167 125.29)",
+          "oklch(84% 0.0167 125.29)",
+          "oklch(95% 0.0167 125.29)"
+        ]
+      },
+      "mint": {
+        "role": "primary",
+        "displayName": "Campus Mint",
+        "tonalRamp": [
+          "oklch(15% 0.0961 164.14)",
+          "oklch(26% 0.0961 164.14)",
+          "oklch(38% 0.0961 164.14)",
+          "oklch(49% 0.0961 164.14)",
+          "oklch(61% 0.0961 164.14)",
+          "oklch(72% 0.0961 164.14)",
+          "oklch(84% 0.0961 164.14)",
+          "oklch(95% 0.0961 164.14)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Mist Teal",
+        "tonalRamp": [
+          "oklch(15% 0.0219 204.01)",
+          "oklch(26% 0.0219 204.01)",
+          "oklch(38% 0.0219 204.01)",
+          "oklch(49% 0.0219 204.01)",
+          "oklch(61% 0.0219 204.01)",
+          "oklch(72% 0.0219 204.01)",
+          "oklch(84% 0.0219 204.01)",
+          "oklch(95% 0.0219 204.01)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Slate Divider",
+        "tonalRamp": [
+          "oklch(15% 0.0338 222.29)",
+          "oklch(26% 0.0338 222.29)",
+          "oklch(38% 0.0338 222.29)",
+          "oklch(49% 0.0338 222.29)",
+          "oklch(61% 0.0338 222.29)",
+          "oklch(72% 0.0338 222.29)",
+          "oklch(84% 0.0338 222.29)",
+          "oklch(95% 0.0338 222.29)"
+        ]
+      },
+      "gold": {
+        "role": "secondary",
+        "displayName": "Focus Gold",
+        "tonalRamp": [
+          "oklch(15% 0.1056 81.44)",
+          "oklch(26% 0.1056 81.44)",
+          "oklch(38% 0.1056 81.44)",
+          "oklch(49% 0.1056 81.44)",
+          "oklch(61% 0.1056 81.44)",
+          "oklch(72% 0.1056 81.44)",
+          "oklch(84% 0.1056 81.44)",
+          "oklch(95% 0.1056 81.44)"
+        ]
+      },
+      "mint-hover": {
+        "role": "primary",
+        "displayName": "Mint Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0712 166.72)",
+          "oklch(26% 0.0712 166.72)",
+          "oklch(38% 0.0712 166.72)",
+          "oklch(49% 0.0712 166.72)",
+          "oklch(61% 0.0712 166.72)",
+          "oklch(72% 0.0712 166.72)",
+          "oklch(84% 0.0712 166.72)",
+          "oklch(95% 0.0712 166.72)"
+        ]
+      },
+      "ink-link-hover": {
+        "role": "neutral",
+        "displayName": "Forest Link Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0604 165.94)",
+          "oklch(26% 0.0604 165.94)",
+          "oklch(38% 0.0604 165.94)",
+          "oklch(49% 0.0604 165.94)",
+          "oklch(61% 0.0604 165.94)",
+          "oklch(72% 0.0604 165.94)",
+          "oklch(84% 0.0604 165.94)",
+          "oklch(95% 0.0604 165.94)"
+        ]
+      },
+      "screenshot-build": {
+        "role": "neutral",
+        "displayName": "Screenshot Teal",
+        "tonalRamp": [
+          "oklch(15% 0.0399 218.57)",
+          "oklch(26% 0.0399 218.57)",
+          "oklch(38% 0.0399 218.57)",
+          "oklch(49% 0.0399 218.57)",
+          "oklch(61% 0.0399 218.57)",
+          "oklch(72% 0.0399 218.57)",
+          "oklch(84% 0.0399 218.57)",
+          "oklch(95% 0.0399 218.57)"
+        ]
+      },
+      "screenshot-contracts": {
+        "role": "neutral",
+        "displayName": "Screenshot Sage",
+        "tonalRamp": [
+          "oklch(15% 0.0246 180.75)",
+          "oklch(26% 0.0246 180.75)",
+          "oklch(38% 0.0246 180.75)",
+          "oklch(49% 0.0246 180.75)",
+          "oklch(61% 0.0246 180.75)",
+          "oklch(72% 0.0246 180.75)",
+          "oklch(84% 0.0246 180.75)",
+          "oklch(95% 0.0246 180.75)"
+        ]
+      },
+      "screenshot-crew": {
+        "role": "neutral",
+        "displayName": "Screenshot Slate",
+        "tonalRamp": [
+          "oklch(15% 0.0190 196.41)",
+          "oklch(26% 0.0190 196.41)",
+          "oklch(38% 0.0190 196.41)",
+          "oklch(49% 0.0190 196.41)",
+          "oklch(61% 0.0190 196.41)",
+          "oklch(72% 0.0190 196.41)",
+          "oklch(84% 0.0190 196.41)",
+          "oklch(95% 0.0190 196.41)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline with mint second-line emphasis."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Gameplay feature headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default paragraphs."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Introductory statements."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Primary App Store action."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Availability and footer text."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "button-hover",
+        "value": "background .2s ease",
+        "purpose": "Primary action background change."
+      },
+      {
+        "name": "scene-arrival",
+        "value": "1.1s cubic-bezier(.16,1,.3,1)",
+        "purpose": "One visible campus entrance: translateY(22px) to 0, clip-path inset(0 0 2% 0) to inset(0). Disabled with prefers-reduced-motion."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Disable campus animation, button transition, and smooth scrolling."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-phone",
+        "value": "380px"
+      },
+      {
+        "name": "mobile",
+        "value": "700px"
+      },
+      {
+        "name": "intermediate",
+        "value": "1000px"
+      },
+      {
+        "name": "wide",
+        "value": "1500px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The filled App Store link; mint on deep teal.",
+      "html": "<a class=\"ds-button\" href=\"https://apps.apple.com/app/id6808952625\">Download on the App Store <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;justify-content:center;align-items:center;gap:26px;min-height:56px;padding:14px 25px;background:var(--mint,#94e6c1);color:var(--ink,#122b35);border-radius:12px;text-decoration:none;font:550 17px/1.6 Outfit,system-ui,sans-serif;transition:background .2s ease}.ds-button:hover{background:#b6f3d9;color:var(--ink,#122b35)}.ds-button:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}"
+    },
+    {
+      "name": "Support Text Link",
+      "kind": "custom",
+      "refersTo": "text-link",
+      "description": "Underlined support action with a small outward arrow.",
+      "html": "<a class=\"ds-text-link\" href=\"mailto:kevinmokex@gmail.com\">kevinmokex@gmail.com <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a>",
+      "css": ".ds-text-link{display:inline-flex;align-items:center;gap:24px;color:var(--mint,#94e6c1);font:500 18px/1.6 Outfit,system-ui,sans-serif;text-underline-offset:.24em;text-decoration-thickness:1px}.ds-text-link:hover{color:var(--mint,#94e6c1)}.ds-text-link:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Open text links; mobile retains Support.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#game\">The game</a><a href=\"#support\">Support</a><a class=\"ds-nav-download\" href=\"https://apps.apple.com/app/id6808952625\">Get the game <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" aria-hidden=\"true\"><path d=\"M2 12 12 2M2 2h10v10\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:32px;font:400 16px/1.6 Outfit,system-ui,sans-serif;color:var(--text,#f0f5e9)}.ds-nav a{text-decoration:none;color:inherit;padding-block:10px}.ds-nav .ds-nav-download,.ds-nav a:hover{color:var(--mint,#94e6c1)}.ds-nav a:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}@media(max-width:700px){.ds-nav{gap:20px;font-size:15px}.ds-nav a:first-child,.ds-nav .ds-nav-download{display:none}}"
+    },
+    {
+      "name": "Gameplay Feature Copy",
+      "kind": "card",
+      "refersTo": "feature-copy",
+      "description": "The open text portion of an image-led gameplay feature. The page pairs this with a real screenshot well.",
+      "html": "<article class=\"ds-feature-copy\"><h3>A place for every possibility.</h3><p>Place racks, power, and cooling on a physical grid. Develop your rooms and expand through 15 departments at your own pace.</p></article>",
+      "css": ".ds-feature-copy{padding-top:26px;font-family:Outfit,system-ui,sans-serif}.ds-feature-copy h3{margin:0;max-width:15ch;font-size:28px;font-weight:550;line-height:1.13;letter-spacing:-.035em;text-wrap:balance;color:var(--text,#f0f5e9)}.ds-feature-copy p{max-width:68ch;margin:16px 0 0;font-size:17px;line-height:1.6;color:var(--muted,#b5c9cb)}"
+    },
+    {
+      "name": "Support Disclosure",
+      "kind": "custom",
+      "refersTo": "faq",
+      "description": "Native expanding question with mint plus/minus and tonal rules.",
+      "html": "<details class=\"ds-details\"><summary>Where is my progress saved?</summary><p>Your game progress is saved on your device. Deleting the app may remove it. Offline progression is capped at 30 minutes per shift.</p></details>",
+      "css": ".ds-details{border-top:1px solid var(--line,#38515a);border-bottom:1px solid var(--line,#38515a);font-family:Outfit,system-ui,sans-serif}.ds-details summary{cursor:pointer;color:var(--text,#f0f5e9);font-size:19px;line-height:1.6;padding:23px 30px 23px 0;position:relative;list-style:none;font-weight:450}.ds-details summary::-webkit-details-marker{display:none}.ds-details summary::after,.ds-details summary::before{content:\"\";position:absolute;right:3px;top:36px;width:12px;height:1.5px;background:var(--mint,#94e6c1)}.ds-details summary::before{transform:rotate(90deg)}.ds-details[open] summary::before{display:none}.ds-details summary:hover{color:var(--mint,#94e6c1)}.ds-details summary:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}.ds-details p{margin:0;font-size:17px;line-height:1.6;color:var(--muted,#b5c9cb);padding:0 25px 25px 0}"
+    },
+    {
+      "name": "Footer",
+      "kind": "custom",
+      "refersTo": "footer",
+      "description": "Muted closing row with native underlined contact links.",
+      "html": "<footer class=\"ds-footer\"><p>© 2026 Kevin Mok</p><div><a href=\"https://medium.com/@kevinmok/compute-tycoon-data-center-tycoon-privacy-policy-ca313c806670\">Privacy policy</a><a href=\"mailto:kevinmokex@gmail.com\">Contact</a></div></footer>",
+      "css": ".ds-footer{display:flex;align-items:center;justify-content:space-between;gap:28px;border-top:1px solid var(--line,#38515a);padding-block:30px 36px;font:400 14px/1.6 Outfit,system-ui,sans-serif;color:var(--muted,#b5c9cb)}.ds-footer p{margin:0}.ds-footer div{display:flex;gap:24px}.ds-footer a{color:inherit;text-underline-offset:.24em}.ds-footer a:hover{color:var(--mint,#94e6c1)}.ds-footer a:focus-visible{outline:3px solid var(--gold,#f6cc80);outline-offset:6px}@media(max-width:700px){.ds-footer{align-items:flex-start;gap:20px;flex-wrap:wrap;padding-block:25px}.ds-footer div{gap:20px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Miniature Compute Campus",
+    "overview": "A miniature compute campus invites players into a real game. The world inherits Compute Tycoon's low-poly campus artwork, icon, Outfit typography, and deep teal, mint, ivory, and gold palette. Its personality is warm, optimistic, and practical: a small place with room for ambitious building.\n\nThe website gives real game imagery space to carry that personality. Open sections, restrained controls, and clear typography surround the artwork. Depth comes from the scene itself and tonal screenshot wells; interface chrome stays quiet. This document records the built static HTML/CSS system, including the selected direction contract (seed `e8cb3784`). The frontmatter is normative for tokens; `styles.css` and `index.html` are the extraction sources.",
+    "keyCharacteristics": [
+      "Real low-poly campus imagery and unaltered gameplay screenshots.",
+      "An open deep teal stage with ivory text and mint accents.",
+      "Rounded Outfit lettering, compact controls, and generous section spacing.",
+      "Tonal media wells, thin dividers, and a single restrained scene arrival.",
+      "Native links and disclosure controls that work without JavaScript."
+    ],
+    "rules": [
+      {
+        "name": "The Surface Contrast Rule",
+        "body": "Mint surfaces use deep teal text and deep teal focus; dark surfaces use ivory or mist text with gold focus.",
+        "section": "colors"
+      },
+      {
+        "name": "The Artwork Depth Rule",
+        "body": "Preserve the flat interface and let actual game imagery supply the dimensional detail.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** reuse the actual campus artwork, app icon, local Outfit font, and gameplay screenshots.",
+      "**Do** keep the page's deep teal stage, mint actions, ivory headings, and muted supporting copy.",
+      "**Do** preserve native link and disclosure semantics, visible focus, and reduced-motion behavior.",
+      "**Do** keep feature text outside the screenshot wells and let mobile features become image-and-text rows.",
+      "**Do** use the frontmatter for token values and the sidecar for motion, responsive metadata, and component previews."
+    ],
+    "donts": [
+      "**Don't** introduce a second type family or substitute unrelated stock imagery for the game.",
+      "**Don't** add shadows to the flat controls and content sections.",
+      "**Don't** use pale text or gold focus on the mint section.",
+      "**Don't** replace native disclosure behavior with a JavaScript requirement.",
+      "**Don't** turn this page's hero composition into a mandatory layout for every future surface."
+    ]
+  }
+}
